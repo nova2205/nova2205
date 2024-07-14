@@ -1,6 +1,6 @@
-- ⭐️ My name ist Nova!
+- ⭐️ My name is Nova!
 - 🌊 I can work with Lua, Javascript / NodeJS, Java
-- 🤖 I'm currently working on my own Crimelife Server [Ocean Crimelife](https://discord.gg/Bp28ma2NCD)
+- 🤖 I'm currently working on my own Minecraft Server [RushOase](https://discord.gg/p6P57jdKu9)
 - 📫 You can reach me on Discord: nova2205#0
 ---
 <h3 align="left">Connect with me:</h3>
