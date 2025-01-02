@@ -1,6 +1,5 @@
 - ⭐️ My name is Nova!
-- 🌊 I can work with Lua, Javascript / NodeJS, Java
-- 🤖 I'm currently working on my own Minecraft Server [RushOase](https://discord.gg/p6P57jdKu9)
+- 🌊 I can work with Lua, Javascript / NodeJS, Java, Verse
 - 📫 You can reach me on Discord: nova2205#0
 ---
 <h3 align="left">Connect with me:</h3>
