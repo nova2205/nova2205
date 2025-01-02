@@ -6,6 +6,7 @@
 <p align="left">
 <a href="https://discord.gg/users/448096712997994499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HvRGKz5ztg" height="30" width="40" /></a>
 </p> 
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/448096712997994499?showDisplayName=false&theme=dark&idleMessage=you%20can%C2%B4t%20be%20a%20hero%20without%20a%20sacrifice)](https://discord.com/users/448096712997994499)
 
 <h3 align="left">Languages and Tools:</h3>
