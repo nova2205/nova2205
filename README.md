@@ -1,4 +1,4 @@
-- ⭐️ My name is Nova!
+- ⭐️ My name is milo.!
 - 🌊 I can work with Lua, Javascript / NodeJS, Java, Verse
 - 📫 You can reach me on Discord: nova2205#0
 ---
